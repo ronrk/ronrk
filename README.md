@@ -7,12 +7,10 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail vinicius"></img>
 </a>
 
-<a href="https://www.linkedin.com/in/vinícius-henrique-7a2533229/" target="_blank">
+<a href="https://www.linkedin.com/in/ron-rokkah-ba665120a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"></img>
 </a>
-<a href="https://www.frontendmentor.io/profile/viniciusshenri96" target="_blank">
 
- ></a> 
 </div>
 
 ## A little about myself 👋
