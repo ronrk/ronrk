@@ -4,14 +4,15 @@
 
 <div align="left">
 <a href="mailto:ronrk11@gmail.com" target="_blank" display='inline'>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail vinicius"></img>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail ronrock"></img>
 </a>
 
 <a href="https://www.linkedin.com/in/ron-rokkah-ba665120a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin ronrock" ></img>
 </a>
 
-<a href="">[Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=RonRock&logoColor=white)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius" ></img>
+<a href=""><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="linkedin vinicius" ></img>
 </a>
 
 </div>
