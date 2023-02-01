@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"></img>
 </a>
 
+<a href="">[Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=RonRock&logoColor=white)
+</a>
+
 </div>
 
 ## A little about myself 👋
