@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ron-rokkah-ba665120a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin ronrock" ></img>
 </a>
-<a href=""><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="ron-rock"></img>
+<a href="https://ron-rock-portfolio-jw1vgkrmj-ronrk.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="ron-rock"></img>
 </a>
 </div>
 
