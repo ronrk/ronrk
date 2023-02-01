@@ -3,14 +3,16 @@
 <!--![](./img/banner.jpg)-->
 
 <div align="left">
-<a href="mailto:viniciush2015@gmail.com" target="_blank" display='inline'>
+<a href="mailto:ronrk11@gmail.com" target="_blank" display='inline'>
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail vinicius"></img>
 </a>
 
 <a href="https://www.linkedin.com/in/vinícius-henrique-7a2533229/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"></img>
 </a>
-<a href="https://www.frontendmentor.io/profile/viniciusshenri96" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vinicius Henrique-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
+<a href="https://www.frontendmentor.io/profile/viniciusshenri96" target="_blank">
+
+ ></a> 
 </div>
 
 ## A little about myself 👋
