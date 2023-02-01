@@ -46,7 +46,5 @@ I'm a front end developer in his starting steps, live in Israel.
 
 - Improving myself even more on Javascript freamworks.
 
-## 🏆 Some of my projects
-
 
 
