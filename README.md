@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ron-rokkah-ba665120a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"></img>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius" />
 </a>
 
 <a href="">[Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=RonRock&logoColor=white)
