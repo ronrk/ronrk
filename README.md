@@ -44,7 +44,7 @@ I'm a front end developer in his starting steps, live in Israel.
 
 ## 📚 Currently studying
 
-- Improving myself even more on Javascript freamworks.
+- Microservices, microfrontends.
 
 
 
