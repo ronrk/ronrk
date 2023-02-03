@@ -44,7 +44,7 @@ I'm a front end developer in his starting steps, live in Israel.
 
 ## 📚 Currently studying
 
-- Microservices, microfrontends.
+- Microservices & microfrontends architecture.
 
 
 
