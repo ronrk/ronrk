@@ -17,11 +17,11 @@
 
 I'm a front end developer in his starting steps, live in Israel.
 
-- ❤️ I love turning layouts into codes
+- ❤️ I love turning Designs into Code.
 
 - 📖 I enjoy learning new technologies all the time.
 
-- 🚀 I want to create content to help the community
+- 🚀 I am self-taught independent Coder.
 
 ## 🛠️ Technical Skills & Tools
 
