@@ -15,11 +15,12 @@
 
 ## A little about myself 👋
 
-I'm a front end developer in his starting steps, live in Israel.
+I'm a front end developer in his starting steps, based in Israel.
 
-- ❤️ I love turning Designs into Code.
 
 - 📖 I enjoy learning new technologies all the time.
+
+- ❤️ I love turning Designs into Code.
 
 - 🚀 I am self-taught independent Coder.
 
