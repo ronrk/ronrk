@@ -32,15 +32,15 @@ I'm a front end developer in his starting steps, live in Israel.
 - [Git](https://git-scm.com/) - Track the history of my projects.
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
-- [React.JS](https://reactjs.org/) - [Javascript Library]
-- [Next.JS](https://nextjs.org/) - [React framework]
-- [Vite.JS](https://vitejs.dev/) - [JavaScript Library]
-- [TypeScript](https://www.typescriptlang.org/) - [Typed programming]
-- [MUI](https://mui.com/) - [Style React Components]
-- [Redux](https://redux.js.org/) - [State Managment]
-- [Styled-Components](https://styled-components.com/) - [CSS Library]
-- [Node.Js](https://nodejs.org/en/) - [JavaScript runtime environment]
-- [Express](https://expressjs.com/) - [NodJs Web framework]
+- [React.JS](https://reactjs.org/) - Javascript Library
+- [Next.JS](https://nextjs.org/) - React framework
+- [Vite.JS](https://vitejs.dev/) - JavaScript Library
+- [TypeScript](https://www.typescriptlang.org/) - Typed programming
+- [MUI](https://mui.com/) - Style React Components
+- [Redux](https://redux.js.org/) - State Managment
+- [Styled-Components](https://styled-components.com/) - CSS Library
+- [Node.Js](https://nodejs.org/en/) - JavaScript runtime environment
+- [Express](https://expressjs.com/) - NodJs Web framework
 
 ## 📚 Currently studying
 
