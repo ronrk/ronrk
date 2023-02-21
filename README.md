@@ -43,6 +43,10 @@ I'm a front end developer in his starting steps, based in Israel.
 - [Node.Js](https://nodejs.org/en/) - JavaScript runtime environment
 - [Express](https://expressjs.com/) - NodJs Web framework
 
+
+## 🛠️ Currently Workin On:
+ [Kanban Task Manager - Repo ->](https://github.com/ronrk/0000-kanban-task-manager)
+
 ## 📚 Currently studying
 
 - Microservices & microfrontends architecture.
