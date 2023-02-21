@@ -49,7 +49,7 @@ I'm a front end developer in his starting steps, based in Israel.
 
 ## 📚 Currently studying
 
-- Microservices & microfrontends architecture.
+- Imporving React & Next fullstack applications.
 
 
 
