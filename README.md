@@ -45,7 +45,7 @@ I'm a front end developer in his starting steps, based in Israel.
 
 
 ## 🛠️ Currently Workin On:
- [Kanban Task Manager - Repo ->](https://github.com/ronrk/0000-kanban-task-manager)
+ [Work Manager - Repo ->](https://github.com/ronrk/WorkManager)
 
 ## 📚 Currently studying
 
